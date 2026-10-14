@@ -1,0 +1,6 @@
+{
+  "name": "AI Engineering Workspace",
+  "description": "Full-stack developer studio featuring Code Generation & Execution, Website Builder with Live Preview, Data Cleaner & Analysis, and Automated Document Generator powered by FastAPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
